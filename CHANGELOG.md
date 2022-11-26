@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## Release: v1.6.0 (2022-11-26)
+### By: Alvaro Yurrita
+commit 11
+
 ## Release: v1.5.0 (2022-11-26)
 ### By: Alvaro Yurrita
 Commit 10
