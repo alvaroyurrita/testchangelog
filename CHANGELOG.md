@@ -1,6 +1,6 @@
 # CHANGELOG
 
-## Release: v1.6.0 (2022-11-26)
+## Release: v1.7.0 (2022-11-26)
 ### By: Alvaro Yurrita
 commit 11
 
@@ -30,3 +30,7 @@ commit 7 titles
 ## Release: v1.1.1 (2022-11-26)
 ### By: Alvaro Yurrita
 this is a tag
+
+## Release: v1.6.0 ()
+### By: 
+commit 11
