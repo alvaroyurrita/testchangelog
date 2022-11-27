@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## Release: v1.13.00 (2022-11-27)
+### By: Alvaro Yurrita
+commit 17
+line 1
+*line 2
+
 ## Release: v1.12.00 (2022-11-27)
 ### By: Alvaro Yurrita
 Commit 16
@@ -33,26 +39,8 @@ commit 7 titles
 ### By: Alvaro Yurrita
 this is a tag
 
-## Release: v1.10.0 ()
-### By: 
-commit 14
 
-## Release: v1.11.00 ()
-### By: 
-commit 15
 
-## Release: v1.6.0 ()
-### By: 
-commit 11
 
-## Release: v1.7.0 ()
-### By: 
-commit 12
 
-## Release: v1.8.0 ()
-### By: 
-commit 12
 
-## Release: v1.9.0 ()
-### By: 
-Commit 13
