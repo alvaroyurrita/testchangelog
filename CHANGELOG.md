@@ -1,10 +1,10 @@
 # CHANGELOG
 
-## Release: v1.11.00 (2022-11-27)
+## Release: v1.12.00 (2022-11-27)
 ### By: Alvaro Yurrita
-Commit 15
-Line 1
-line 2
+Commit 16
+* Line 1
+* Line 2
 
 ## Release: v1.5.0 (2022-11-26)
 ### By: Alvaro Yurrita
@@ -36,6 +36,10 @@ this is a tag
 ## Release: v1.10.0 ()
 ### By: 
 commit 14
+
+## Release: v1.11.00 ()
+### By: 
+commit 15
 
 ## Release: v1.6.0 ()
 ### By: 
