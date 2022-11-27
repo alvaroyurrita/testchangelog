@@ -1,5 +1,18 @@
 # CHANGELOG
 
+## Release: v1.14.00 (2022-11-27)
+### By: Alvaro Yurrita
+Commit 18
+Line 1
+Line 2
+* Line 3
+* Line 4
+
+Line 5
+
+Line 6
+Line7
+
 ## Release: v1.13.00 (2022-11-27)
 ### By: Alvaro Yurrita
 commit 17
